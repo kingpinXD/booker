@@ -28,5 +28,8 @@
 - Prefer early returns
 
 
-**Important** when adding any code run an analysis to see if the number of lines of code added can be reduced in any way , wether it is extracting common logic into functions , simplifying logic
-**Important** prioritise simple readable code , over complicated ones. It is okay to not handle cases which are unrealistic in favor of keeping the logic simple 
+**Important** when adding any code run an analysis to see if the number of lines of code added can be reduced in any way,
+whether it is extracting common logic into functions, simplifying logic
+**Important** prioritize simple readable code, overcomplicated ones.
+It is okay to not handle cases which are unrealistic in favor of keeping the logic simple 
+
